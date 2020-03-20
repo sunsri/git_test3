@@ -1,6 +1,5 @@
 Eno:- G-100
 Ename:- Sunetha Srinivasa
-Gender:- F
 Address:-
 204, Palace fields,
 TUAM
